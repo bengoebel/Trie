@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A0563D3B-9DAA-4D1A-9D5F-78057BAABD70</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Trie</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00FDCC1FED22AEEB37D6245DEC1715479CC27EAD</key>
+		<string>https://github.com/bengoebel/Trie.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Trie.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00FDCC1FED22AEEB37D6245DEC1715479CC27EAD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bengoebel/Trie.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00FDCC1FED22AEEB37D6245DEC1715479CC27EAD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00FDCC1FED22AEEB37D6245DEC1715479CC27EAD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Trie</string>
+		</dict>
+	</array>
+</dict>
+</plist>
